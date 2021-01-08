@@ -46,7 +46,7 @@ repositories {
 }
 
 dependencies {
-    api("net.mamoe", "mirai-core", "1.3.3") // 替换为你需要的版本号
+    api("net.mamoe:mirai-core:1.3.3") // 替换为你需要的版本号
 }
 ```
 
@@ -66,7 +66,7 @@ repositories {
 }
 
 dependencies {
-    api('net.mamoe', 'mirai-core', '1.3.3') // 替换为你需要的版本号
+    api('net.mamoe:mirai-core:1.3.3') // 替换为你需要的版本号
 }
 ```
 
